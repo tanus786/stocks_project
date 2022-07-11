@@ -1,4 +1,4 @@
-## stocks_project
+## Stocks_project
 https://tanus786.github.io/stocks_project/
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tanus786.github.io/MyPortfolio/)
